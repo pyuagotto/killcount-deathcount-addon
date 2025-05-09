@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "name": "[1.20.60]killcount deathcount Addon v1.1",
-    "description": "This Addon uses Gametest Framework",
+    "name": "killcount deathcount Addon",
+    "description": "",
     "uuid": "1a4fbcb0-d10c-2242-b2ac-ebc14837cf6e",
     "version": [0, 1, 0],
     "min_engine_version": [ 1, 20, 40 ]
