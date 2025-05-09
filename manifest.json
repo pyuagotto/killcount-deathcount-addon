@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "[1.20.60]killcount deathcount Addon v1.1",
+    "description": "This Addon uses Gametest Framework",
+    "uuid": "1a4fbcb0-d10c-2242-b2ac-ebc14837cf6e",
+    "version": [0, 1, 0],
+    "min_engine_version": [ 1, 20, 40 ]
+  },
+  "modules": [
+    {
+      "description": "GameTest module",
+      "type": "script",
+      "uuid": "1111ca3a-0b4b-111e-8ac1-e1ea6a23523d",
+      "version": [0, 1, 0],
+      "entry": "scripts/index.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.7.0"
+    }
+  ]
+}
