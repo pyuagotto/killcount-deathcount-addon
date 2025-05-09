@@ -3,7 +3,7 @@
   "header": {
     "name": "killcount deathcount Addon",
     "description": "",
-    "uuid": "1a4fbcb0-d10c-2242-b2ac-ebc14837cf6e",
+    "uuid": "1a4fbcb0-d10c-2242-b2ac-ebc14831cf6e",
     "version": [0, 1, 0],
     "min_engine_version": [ 1, 20, 40 ]
   },
@@ -11,7 +11,7 @@
     {
       "description": "GameTest module",
       "type": "script",
-      "uuid": "1111ca3a-0b4b-111e-8ac1-e1ea6a23523d",
+      "uuid": "1111ca3a-0b4b-111e-8ac1-e1ea6a52313d",
       "version": [0, 1, 0],
       "entry": "scripts/index.js"
     }
@@ -19,7 +19,7 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "1.7.0"
+      "version": "1.18.0"
     }
   ]
 }
